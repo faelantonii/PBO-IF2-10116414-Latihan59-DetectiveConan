@@ -8,6 +8,10 @@ package PBO_IF2_10116414_Latihan59_DetectiveConan;
 /**
  *
  * @author sweenutt
+ * Nama       : Fael Antoni Wijaya 
+ * Kelas      : PBO2/IF 2 
+ * Nim        : 10116414
+ * Deskripsi  : Program menampilkan detective conan
  */
 public class KarakterSupport extends Karakter {
     private String related;
